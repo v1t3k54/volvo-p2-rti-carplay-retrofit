@@ -65,9 +65,8 @@ The donor for this build is a **VENBES 6-inch portable wireless CarPlay unit**, 
 
 **[View the purchased donor unit on Temu](https://www.temu.com/goods.html?goods_id=607568940352056&sku_id=116616952072036)**
 
-The link was supplied by the owner for the purchased unit. Listing availability, variants and specifications may change; the seller's current page has not been independently verified. The exact hardware revision still needs to be recorded.
+Listing availability, variants and specifications may change; the seller's current page has not been independently verified. The exact hardware revision still needs to be recorded.
 
-> **Choose the correct model:** this project uses the 6-inch unit. The owner's earlier 5-inch VENBES motorcycle display is a different device.
 
 ![The donor display installed in the Volvo RTI housing](assets/photos/photo-39.jpg)
 
