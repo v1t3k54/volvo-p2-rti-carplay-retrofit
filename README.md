@@ -70,12 +70,20 @@ Before reproducing any power connection, identify the circuit from documentation
 
 ## Photos
 
-No assembly photos are included yet: the accessible conversation reference did not expose image attachments that could be inspected and verified. No stock, generated or reconstructed images are presented as build evidence.
+The gallery contains 17 photographs selected by the owner, covering the original RTI, display assembly details, vehicle connectors and installed display. Outdated donor-unit photographs removed by the owner are excluded; one exact duplicate is omitted.
 
-The [photo index](assets/photos/README.md) lists the views needed to complete the illustrated documentation.
+![Navigation on the installed RTI display](assets/photos/photo-39.jpg)
+
+![Original RTI mechanism](assets/photos/photo-04.jpg)
+
+![Display enclosure and cable routing](assets/photos/photo-23.jpg)
+
+[View the complete build gallery](assets/photos/README.md). A raised display in a still photograph does not demonstrate automatic raising or lowering.
 
 ## Next milestone
 
 Restore the original RTI power connection using the planned Y-splitter, then document whether the retained mechanism raises and lowers correctly. After that, record repeatable ignition-cycle, audio and Siri tests.
 
 This is a community DIY project, unaffiliated with Volvo, Apple, VENBES or WEFA.
+
+

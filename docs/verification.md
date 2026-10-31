@@ -34,10 +34,11 @@ Checked entries represent owner-reported results. Unchecked entries are pending,
 
 ## Complete the build record
 
-- [ ] Add verified assembly photos with captions.
+- [x] Add owner-supplied, visually reviewed assembly photos with captions.
 - [ ] Record vehicle year and hardware model / revision labels.
 - [ ] Record mounting details and measured clearances.
 - [ ] Add measured electrical details without relying on wire colours.
 - [ ] Update the README only when each pending feature has been tested.
 
 For each result, record the date, hardware configuration, procedure, observed behavior and any limitation. A single successful motion cycle should not be described as long-term reliability.
+

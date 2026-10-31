@@ -10,7 +10,7 @@ Automatic raising and lowering have not yet been demonstrated in the documented 
 
 ## Assembly details still needed
 
-This is a build record, not a complete teardown or fabrication tutorial. The accessible source does not establish:
+This is a build record, not a complete teardown or fabrication tutorial. The selected photos show the original mechanism, display enclosure details, ribbon cable, vehicle connectors and the installed display. They do not establish:
 
 - Exact vehicle year, RTI part number or VENBES model revision.
 - Which donor enclosure parts were removed or modified.
@@ -31,3 +31,17 @@ These details should be added from the actual build and verified photos before p
 6. Add dimensions and repeatable assembly instructions only after checking them against the hardware.
 
 For electrical observations, see [wiring and audio](wiring-and-audio.md). For completion criteria, see [verification](verification.md).
+
+## Illustrated build record
+
+See the [complete photo gallery](../assets/photos/README.md) for the owner-selected views. Removed photographs of outdated donor hardware are excluded. The sequence is an archive of the build, not a verified disassembly procedure.
+
+![Original RTI assembly](../assets/photos/photo-02.jpg)
+
+![Display enclosure during assembly](../assets/photos/photo-23.jpg)
+
+![Display ribbon cable detail](../assets/photos/photo-25.jpg)
+
+![Installed display](../assets/photos/photo-31.jpg)
+
+
