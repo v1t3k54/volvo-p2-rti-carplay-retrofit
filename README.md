@@ -56,7 +56,6 @@ No exact part numbers, dimensions, prices or purchase links are asserted without
 
 - [Build overview and missing assembly details](docs/build.md)
 - [Power, audio and wiring observations](docs/wiring-and-audio.md)
-- [Remaining work and verification checklist](docs/verification.md)
 - [Assembly photo index](assets/photos/README.md)
 - [Contributing evidence and corrections](CONTRIBUTING.md)
 
