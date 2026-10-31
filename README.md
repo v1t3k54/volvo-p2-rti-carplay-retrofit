@@ -50,7 +50,28 @@ This is a functional overview, not a wiring diagram. The exact Bluetooth pairing
 | WEFA MELBUS Bluetooth adapter | Bluetooth audio through the factory system |
 | Y-splitter | Pending item for the planned power reconnection; exact type and wiring not yet documented |
 
-No exact part numbers, dimensions, prices or purchase links are asserted without supporting details.
+Exact part numbers, dimensions and hardware revisions remain to be documented.
+
+## Donor display — VENBES 6-inch
+
+The donor for this build is a **VENBES 6-inch portable wireless CarPlay unit**, purchased through Temu. Its display and CarPlay hardware are used inside the original Volvo RTI housing.
+
+| Detail | This build |
+| --- | --- |
+| Brand / screen size | VENBES / 6-inch, as identified by the owner |
+| Functions in use | Wireless Apple CarPlay and Waze |
+| Installation | Transplanted into the OEM RTI housing |
+| Audio | WEFA MELBUS Bluetooth adapter through the HU-850 |
+
+**[View the purchased donor unit on Temu](https://www.temu.com/goods.html?goods_id=607568940352056&sku_id=116616952072036)**
+
+The link was supplied by the owner for the purchased unit. Listing availability, variants and specifications may change; the seller's current page has not been independently verified. The exact hardware revision still needs to be recorded.
+
+> **Choose the correct model:** this project uses the 6-inch unit. The owner's earlier 5-inch VENBES motorcycle display is a different device.
+
+![The donor display installed in the Volvo RTI housing](assets/photos/photo-39.jpg)
+
+*Owner's build photo showing the installed display with navigation running. A verified seller product image can be added later.*
 
 ## Build documentation
 
@@ -82,5 +103,3 @@ The gallery contains 17 photographs selected by the owner, covering the original
 Restore the original RTI power connection using the planned Y-splitter, then document whether the retained mechanism raises and lowers correctly. After that, record repeatable ignition-cycle, audio and Siri tests.
 
 This is a community DIY project, unaffiliated with Volvo, Apple, VENBES or WEFA.
-
-
