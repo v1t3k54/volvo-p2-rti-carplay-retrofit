@@ -70,8 +70,7 @@ Before reproducing any power connection, identify the circuit from documentation
 
 ## Photos
 
-The gallery contains 17 photographs selected by the owner, covering the original RTI, display assembly details, vehicle connectors and installed display. Outdated donor-unit photographs removed by the owner are excluded; one exact duplicate is omitted.
-
+The gallery contains 17 photographs selected by the owner, covering the original RTI, display assembly details, vehicle connectors and installed display. 
 ![Navigation on the installed RTI display](assets/photos/photo-39.jpg)
 
 ![Original RTI mechanism](assets/photos/photo-04.jpg)
