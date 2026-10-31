@@ -2,7 +2,7 @@
 
 [Back to README](../../README.md)
 
-These 17 photographs are the owner's selected build images. One byte-identical duplicate was omitted. Earlier photographs removed by the owner, including outdated donor-unit views, are excluded. Captions describe visible details; photographs do not verify pin functions, electrical ratings, automatic motion or Siri operation. Web copies are resized and re-encoded without original metadata.
+Captions describe visible details; photographs do not verify pin functions, electrical ratings, automatic motion or Siri operation. 
 
 ## Original RTI assembly
 
