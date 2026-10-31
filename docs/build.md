@@ -30,8 +30,7 @@ These details should be added from the actual build and verified photos before p
 5. After reconnection, record full raising and lowering with cable clearance visible.
 6. Add dimensions and repeatable assembly instructions only after checking them against the hardware.
 
-For electrical observations, see [wiring and audio](wiring-and-audio.md). For completion criteria, see [verification](verification.md).
-
+For electrical observations, see [wiring and audio](wiring-and-audio.md).
 ## Illustrated build record
 
 See the [complete photo gallery](../assets/photos/README.md) for the owner-selected views. Removed photographs of outdated donor hardware are excluded. The sequence is an archive of the build, not a verified disassembly procedure.
